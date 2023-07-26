@@ -1,0 +1,27 @@
+.card-header{
+    background-color: #ffffff00 !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    border: none !important;
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #ffea00 0%, #ffed2c 5%, #ff311e 45%,#d6249f 60%,#285AEB 90%);
+    box-shadow: rgba(0, 0, 4, 0.596) 0px 25px 20px -20px;
+    outline: none;
+
+}
+    /* .form-control{
+        background-color: #d6249e00;
+        border-top: none;
+        border-left: none;
+        border-right:none ;
+        border:2px solid black ;
+    }
+    .form-control:focus{
+        background-color: #2859eb00;
+        border-top: none;
+        border-left: none;
+        border-right:none ;
+    } */
