@@ -22,6 +22,8 @@ return new class extends Migration
             $table->string('bio')->nullable();
             $table->string('website')->nullable();
             $table->string('gender')->nullable();
+            $table->bigInteger('state_id')->nullable();
+            $table->bigInteger('country_id')->nullable()->default(1);
             $table->rememberToken();
             $table->timestamps();
         });

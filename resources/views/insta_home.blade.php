@@ -13,16 +13,15 @@
         }
 
         .outer-box {
-            width: 85px;
-            height: 82px;
 
-            position: relative;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background: linear-gradient(to right, rgb(255, 255, 62), red, purple);
 
-            padding: 3px;
+            border-radius: 50% !important;
+
+            border-width: 2px;
+
+  border-style: solid;
+  border-image: linear-gradient(to right, rgb(246, 255, 0), rgb(255, 13, 0) ,rgb(255, 0, 234)) 1;
+
         }
 
         .stories-ins {

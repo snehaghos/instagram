@@ -4,6 +4,8 @@
 <link rel="stylesheet" href="{{ asset('css/profile.css') }}">
 <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
 <link rel="stylesheet" href="{{ asset('css/profile.css') }}">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+
 
 <head>
     <style>
